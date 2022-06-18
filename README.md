@@ -1,3 +1,3 @@
-# zuri-layout
+# zuri layout task
 
-## Please, access my pag: https://josebright.github.io/zuri-layout
+## Please, access my page: https://josebright.github.io/zuri-layout
